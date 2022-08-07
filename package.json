@@ -1,0 +1,16 @@
+{
+  "name": "stripe-payment-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Waluisachi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "stripe": "^10.0.0"
+  }
+}
